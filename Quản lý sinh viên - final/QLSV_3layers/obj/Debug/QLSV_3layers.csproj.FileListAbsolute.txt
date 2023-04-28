@@ -1,0 +1,137 @@
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmMain.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmSinhVien.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSGV.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmGiaoVien.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSMH.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmMonHoc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSDiemThi.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmWelcome.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsLopHocPhan.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmLopHoc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangnhap.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangKyMonHoc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsMHDaDky.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmKetQuaHocTap.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSLopGiangDay.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV1lop.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDoiMK.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmChamDiem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV_1lop_Diem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmTTDiemSV.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSNH.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frm_new_nganhhoc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frm_capnhat_nganh.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmThoiKhoaBieu.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\itextsharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\itextsharp.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\Interop.PDFCreatorPilotLib.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSNHoc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmNganhHoc.resources
+C:\Users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmKyHoc.resources
+C:\Users\admin\documents\visual studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmThem_CapNhatKyHoc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmPhanGiaoVien.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmBoMon.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmcapnhat_thembm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\FlashControlV71.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\bin\Debug\stdole.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmBaoCaoDiem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.frmBaoCaoPhanLop.resources
+C:\Users\admin\Desktop\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\QLSV_3layers.exe.config
+C:\Users\admin\Desktop\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\Interop.PDFCreatorPilotLib.dll
+C:\Users\admin\Desktop\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.exe
+C:\Users\admin\Desktop\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.pdb
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\QLSV_3layers.exe.config
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\Interop.PDFCreatorPilotLib.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.exe
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.pdb
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\QLSV_3layers.exe
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\QLSV_3layers.pdb
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\FlashControlV71.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmBaoCaoDiem.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmBaoCaoPhanLop.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmBoMon.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmcapnhat_thembm.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmChamDiem.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangKyMonHoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDangnhap.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDoiMK.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSDiemThi.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSGV.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSLopGiangDay.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsLopHocPhan.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSMH.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDsMHDaDky.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSNH.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSNHoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV1lop.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmDSSV_1lop_Diem.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmGiaoVien.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmKetQuaHocTap.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmKyHoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmLopHoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmMain.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmMonHoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmNganhHoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmPhanGiaoVien.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmSinhVien.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmThem_CapNhatKyHoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmThoiKhoaBieu.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmTTDiemSV.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frmWelcome.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frm_capnhat_nganh.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.frm_new_nganhhoc.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.Properties.Resources.resources
+C:\Users\admin\Desktop\Đề án - fianl\Đề án - fianl\Quản lý sinh viên - final\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.GenerateResource.Cache
