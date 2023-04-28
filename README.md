@@ -1,5 +1,4 @@
-# QLSV
-Quản lý sinh viên dotnet Win form
+# Quản lý sinh viên dotnet Win form
 Đây là chương trình được xây dựng bằng ngôn ngữ C# dotnet trên Winform của Microsoft Visual stuido, kết hợp với đó là SqlServer
 Chương trình chia làm 4 người sử dụng là Phòng quản lý đào tạo, sinh viên, giáo viên và Admin với các chức năng khác nhau.
 + Phòng quản lý đào tạo có 5 chức năng chính đó là quản lý môn học, 
